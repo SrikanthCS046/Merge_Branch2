@@ -2,5 +2,5 @@
 About Git and 
 i am srikanth
 # infinity coders
-founder : Srikanth 
+founder : Srikanth
 
